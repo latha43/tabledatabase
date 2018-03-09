@@ -1,0 +1,70 @@
+h2 {
+  
+  color: red;
+  font-family: Times New Roman;
+  font-size: 400%;
+ 
+}
+body{
+	 background-image: url("C:/Users/u54888/Pictures/bk.jpg");
+	 background-repeat:no repeat;
+	 background-size:cover;
+		color:#ff0000;
+}
+
+	
+
+.button {
+    background-color:#ff8080; 
+    border: none;
+    color: white;
+    padding: 3px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+table, td, th {
+    border: 5px solid #ff8000;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #8080c0;
+    padding: 10px; 
+    width: 100px;
+    height: 10px; 
+}
+
+.posis{
+
+    position:absolute;
+    transition: .5s ease;
+    top: 5%;
+    right: 5%;
+      background-color:#ff8080; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.box{
+	width: 120px;
+    padding: 1px;
+    border: 2px solid #80ffff;
+    margin: 0;
+}
+
+
